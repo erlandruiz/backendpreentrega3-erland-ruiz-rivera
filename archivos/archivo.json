@@ -1,0 +1,57 @@
+[
+     {
+          "id": 1,
+          "title": "producto1",
+          "description": "zapato",
+          "price": 100,
+          "thumbnail": "www.imagen.com/image1",
+          "code": 123,
+          "stock": 10
+     },
+     {
+          "id": 2,
+          "title": "producto2",
+          "description": "cartera",
+          "price": 100,
+          "thumbnail": "www.imagen.com/image2",
+          "code": 423,
+          "stock": 260
+     },
+     {
+          "id": 4,
+          "title": "Nuevo titulo",
+          "description": "CPU",
+          "price": 500,
+          "thumbnail": "www.imagen.com/image4",
+          "code": 523,
+          "stock": 110
+     },
+     {
+          "id": 5,
+          "title": "Nuevo titulo ",
+          "description": "parlante",
+          "price": 20,
+          "thumbnail": "www.imagen.com/image5",
+          "code": 783,
+          "stock": 10,
+          "description2": "Lapicero"
+     },
+     {
+          "id": 6,
+          "title": "producto6",
+          "description": "Teclado",
+          "price": 50,
+          "thumbnail": "www.imagen.com/image1",
+          "code": 233,
+          "stock": 10
+     },
+     {
+          "id": 7,
+          "title": "producto7",
+          "description": "Pantalon",
+          "price": 80,
+          "thumbnail": "www.imagen.com/image2",
+          "code": 923,
+          "stock": 160
+     }
+]
