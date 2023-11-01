@@ -2,7 +2,7 @@ const express = require("express");
 
 //Agregamos el ProductManager
 
-const ProductManager = require("../../modulo/ProductManager");
+const ProductManager = require("./ProductManager");
 
 //************************ //
 //Utilizamos el path para poder trabajar con rutas absolutas
