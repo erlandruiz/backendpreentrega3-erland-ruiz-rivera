@@ -59,7 +59,7 @@ const entorno2 = async () => {
 
     //Enviado el producto por ID PARAMS
     app.get('/products/:id', (req, res) => {
-      let resultado2 = productos
+      
 
         let id = req.params.id;
     
@@ -70,7 +70,7 @@ const entorno2 = async () => {
             return res.send('Error, ingrese un argumento id numerico')
             
         }
-        resultado2 = productos.find((producto)=>{
+        let resultado2 = productos.find((producto)=>{
             return producto.id === id
         })
 
